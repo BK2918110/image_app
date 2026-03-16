@@ -29,7 +29,6 @@ The application is divided into five core mathematical modules:
     * Gaussian Blur Approximation
     * Laplacian (Omnidirectional Edge Detection)
     * Sharpening
-    * Sobel X/Y & Prewitt X/Y (Directional Gradient Edge Detection)
 
 ### 5. Correlation (Template Matching)
 * **Normalized Cross-Correlation (NCC):** Statistically slides a Template image across a Main target image to find the area of highest match.
